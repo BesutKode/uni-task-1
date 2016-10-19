@@ -1,5 +1,7 @@
 # Elimination task 1
 
+[Click here](README-id.md) for Indonesian translation.
+
 ## Task
 
 Find and fix technical bugs in translated messages hosted in GitHub repositories.
