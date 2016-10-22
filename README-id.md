@@ -68,8 +68,7 @@ Disarankan untuk berlaku secara profesional dan berlaku layaknya
 -  semantik, seperti struktur tata bahasa yang hilang,
    contoh: tidak adanya titik pada akhir kalimat, dan lain sebagainya.
 
--  syntax errors, such as invariant parts of the source message
-   that have been translated when they should not be translated.
+-  syntax errors, seperti pada variant bahasa dari bahasa sumber yang tidak semestinya di translate namun sudah terlanjur di translate.
 
 Telah ada alat-alat bersumber terbuka untuk menemukan dan bahkan
 membetulkan masalah-masalah ini secara otomatis.
