@@ -1,7 +1,7 @@
 # Tugas eliminasi 1
 
 ## Tugas
-Temukan dan betulkan *bug* teknis yang terdapat pada pesan-pesan terjemahan yang terdapat pada repo-repo GitHub. 
+Temukan dan perbaiki *bug* teknis yang terdapat pada pesan-pesan terjemahan yang terdapat pada repo-repo GitHub. 
 
 ## Tujuan
 
@@ -31,7 +31,7 @@ dan tidak diperkenankan untuk berinteraksi dengan repo-repo di bawah:
 
 ### Terima undangan
 
-Anda akan menerima surel dari GitHub yang berisi undangan untuk bergabung dalam
+Anda akan menerima surel (*e-mail*) dari GitHub yang berisi undangan untuk bergabung dalam
 organisasi BesutKode GitHub.
 
 Anda harus menyetujui undangan tersebut.
@@ -54,7 +54,7 @@ peserta Besut Kode Universitas yang berhasil.
 
 https://gitter.im/BesutKode/uni-task-1
 
-Saluran gitter ini publik tidak.
+Saluran gitter ini tidak tebuka untuk publik.
 
 Gunakan saluran ini untuk bertanya atau meminta klarifikasi mengenai tugas ini. 
 
@@ -68,10 +68,10 @@ Disarankan untuk berlaku secara profesional dan berlaku layaknya
 -  semantik, seperti struktur tata bahasa yang hilang,
    contoh: tidak adanya titik pada akhir kalimat, dan lain sebagainya.
 
--  syntax errors, seperti pada variant bahasa dari bahasa sumber yang tidak semestinya di translate namun sudah terlanjur di translate.
+-  sintak eror, seperti pada variasi bahasa dari bahasa sumber yang tidak semestinya di terjemahkan namun sudah terlanjur di    terjemahkan.
 
 Telah ada alat-alat bersumber terbuka untuk menemukan dan bahkan
-membetulkan masalah-masalah ini secara otomatis.
+memperbaiki masalah-masalah ini secara otomatis.
 Contoh alat bersumber terbuka untuk hal ini adalah
 [`translate-toolkit`](https://en.wikipedia.org/wiki/Translate_Toolkit),
 yang mana telah disertakan pada distribusi Linux pada umumnya. 
@@ -87,7 +87,7 @@ akan di-[lazy-commit](https://docs.weblate.org/en/latest/admin/continuous.html#l
 Apabila proyek weblate disambungkan pada sebuah repo GitHub,
 perubahan-perubahan yang dibuat pada layanan weblate akan muncul pada 
 profil GitHub kontributor yang membuat perubahan tersebut di weblate,
-**HANYA** apabila alamat surel yang digunakan oleh kontributor di 
+**HANYA** apabila alamat surel (*e-mail*) yang digunakan oleh kontributor di 
 GitHub dan di weblate sama.
 
 Beberapa layanan weblate memungkinkan otentikasi (pembuktian) menggunakan 
@@ -103,8 +103,8 @@ proyek yang tersambung dengan repo GitHub adalah:
 
 Peserta diperkenankan untuk memilih repo GitHub non-Weblate. 
 
-Namun diperingatkan bahwa adalah hal yang biasa bagi proyek-proyek
-untuk menolak menerima *Pull Request* untuk berkas-berkas terjemahan. 
+Namun diperingatkan, bahwa adalah hal yang biasa bagi proyek-proyek
+menolak untuk menerima *Pull Request* bagi berkas-berkas terjemahan. 
 
 Contohnya, [Proyek SugarLabs](https://github.com/sugarlabs) menggunakan 
 layanan [Pootle](https://en.wikipedia.org/wiki/Pootle) pada 
@@ -154,7 +154,7 @@ berkas-berkas berisi terjemahan.
 
 Contohnya, openSUSE menunjukkan bahwa mereka lebih menyukai proses penerjemahan melalui weblate.
 
-Selain itu, beberapa proyek dia menerima penerjemahan yang menggunakan
+Selain itu, beberapa proyek, mereka menerima penerjemahan yang menggunakan
 identitas penerjemah. Contohnya, [SugarLabs projects](https://github.com/sugarlabs)
 menggunakan layanan [Pootle](https://en.wikipedia.org/wiki/Pootle) di 
 [translate.sugarlabs.org](https://translate.sugarlabs.org/) untuk mengatur
